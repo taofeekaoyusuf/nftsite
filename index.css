@@ -45,6 +45,7 @@ a:hover, a:active{
     border-radius: 4.6px;
     font-weight: 500;
     text-decoration: none;
+    display: inline-block;
 }
 
 .buy-nft {
@@ -67,32 +68,13 @@ a:hover, a:active{
     background: #f0e0ff; 
 }
 
-.buy-nft:hover, 
-.buy-nft:active, 
-.more-info:hover,
-.more-info:active, 
-.about-us:hover,
-.about-us:active, 
-.contact:hover,
-.contact:active {
+.btn:hover, 
+.btn:active {
     color: #2b283a;
     background: #f3e885;
 }
 
-/* 
-Challenge:
-1. Style the 4 button-style links as per 
-   the specifications on the slide.
-2. Remember to group the selectors
-   where possible to keep the CSS DRY.
-⚠️ Think: what would make good class
-   names for these links? 
-*/
-
-
-
-/* layout */
-
+ /* layout */
 header, section, footer{
     padding: 45px 0;
 }
