@@ -17,4 +17,4 @@ Head over to https://vitejs.dev/ to learn more about configuring Vite
 
 Feel free to fork the repository and modify the code as you please. Code responsibly.
 
-&copy Copyright: TAOY
+&copy;Copyright: TAOY
